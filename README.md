@@ -5,11 +5,11 @@
 ## Week Wise progress:
 
 ### Week 1
-I made my CP template.  
-Then I practices some question based on Array, Binary Search and Data Structures like maps, sets etc.
+I made my CP template.   
+Then I practices some question based on Array, Binary Search and Data Structures like `map`, `set`, `unordered_map` etc.
 
 ### Week 2
-In week 2, I mainly studied two topics  
+In week 2, I mainly studied two topics    
 1. Greedy Algorithms
 2. Bit manipulations
 
