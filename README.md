@@ -1,6 +1,6 @@
 # SoC 35 – Mastering Competitive Programming 🏆
 
-## Ajay Kumar Gautam
+## Ajay Kumar Gautam (24B0967)
 
 ## Week Wise progress:
 
