@@ -6,7 +6,7 @@
 
 ### Week 1
 I made my CP template.   
-Then I practices some question based on Array, Binary Search and Data Structures like `map`, `set`, `unordered_map` etc.
+Then I practiced some question based on Array, Binary Search and Data Structures like `map`, `set`, `unordered_map` etc.
 
 ### Week 2
 In week 2, I mainly studied two topics    
