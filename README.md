@@ -17,4 +17,7 @@ In week 2, I mainly studied two topics
 I skipped week 3 due to some other commitments, But i will do it in the coming time.
 
 ### Week 4 (Ongoing)
-I am currently doing it, which is based on Dynamic Programming.
+In this week, i studied Dynamic Programming(DP). Solved problems from CSES Problem set.
+
+### Week 5
+I started Graphs from this week, studied some topics like DFS, BFS, Shortest Paths, some algorithm Bellman-Ford Algorithm, Dijkstra's Algorithm, Floyd-Warshall algorithm etc.
